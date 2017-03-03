@@ -1,1 +1,1 @@
-# Yahoo-Weather-API-line-ver.
+# Yahoo-Weather-API-ellipse-ver.
